@@ -1,0 +1,14 @@
+K:\InternetCafe\InternetCafe\InternetCafeServer\bin\Debug\InternetCafeServer.exe
+K:\InternetCafe\InternetCafe\InternetCafeServer\bin\Debug\InternetCafeServer.pdb
+K:\InternetCafe\InternetCafe\InternetCafeServer\bin\Debug\InternetCafeServer.xml
+K:\InternetCafe\InternetCafe\InternetCafeServer\obj\Debug\ResolveAssemblyReference.cache
+K:\InternetCafe\InternetCafe\InternetCafeServer\obj\Debug\InternetCafeServer.frmServer.resources
+K:\InternetCafe\InternetCafe\InternetCafeServer\obj\Debug\InternetCafeServer.Resources.resources
+K:\InternetCafe\InternetCafe\InternetCafeServer\obj\Debug\InternetCafeServer.vbproj.GenerateResource.Cache
+K:\InternetCafe\InternetCafe\InternetCafeServer\obj\Debug\InternetCafeServer.exe
+K:\InternetCafe\InternetCafe\InternetCafeServer\obj\Debug\InternetCafeServer.xml
+K:\InternetCafe\InternetCafe\InternetCafeServer\obj\Debug\InternetCafeServer.pdb
+K:\InternetCafe\InternetCafe\Output\InternetCafeServer.exe
+K:\InternetCafe\InternetCafe\Output\InternetCafeServer.pdb
+K:\InternetCafe\InternetCafe\Output\InternetCafeServer.xml
+K:\InternetCafe\InternetCafe\Output\InternetCafeServer.exe.config

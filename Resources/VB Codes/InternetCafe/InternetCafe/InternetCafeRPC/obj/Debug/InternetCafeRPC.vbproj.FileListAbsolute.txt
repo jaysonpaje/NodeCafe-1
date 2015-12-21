@@ -1,0 +1,12 @@
+K:\InternetCafe\InternetCafe\InternetCafeRPC\obj\Debug\ResolveAssemblyReference.cache
+K:\InternetCafe\InternetCafe\InternetCafeRPC\obj\Debug\InternetCafeRPC.Resources.resources
+K:\InternetCafe\InternetCafe\InternetCafeRPC\obj\Debug\InternetCafeRPC.vbproj.GenerateResource.Cache
+K:\InternetCafe\InternetCafe\InternetCafeRPC\bin\Debug\InternetCafeRPC.dll
+K:\InternetCafe\InternetCafe\InternetCafeRPC\bin\Debug\InternetCafeRPC.pdb
+K:\InternetCafe\InternetCafe\InternetCafeRPC\bin\Debug\InternetCafeRPC.xml
+K:\InternetCafe\InternetCafe\InternetCafeRPC\obj\Debug\InternetCafeRPC.dll
+K:\InternetCafe\InternetCafe\InternetCafeRPC\obj\Debug\InternetCafeRPC.xml
+K:\InternetCafe\InternetCafe\InternetCafeRPC\obj\Debug\InternetCafeRPC.pdb
+K:\InternetCafe\InternetCafe\Output\InternetCafeRPC.dll
+K:\InternetCafe\InternetCafe\Output\InternetCafeRPC.pdb
+K:\InternetCafe\InternetCafe\Output\InternetCafeRPC.xml

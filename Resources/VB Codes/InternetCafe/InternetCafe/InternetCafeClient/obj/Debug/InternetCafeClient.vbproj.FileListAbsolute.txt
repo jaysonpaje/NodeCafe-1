@@ -1,0 +1,30 @@
+C:\Documents and Settings\Administrator\Desktop\InternetCafe\InternetCafe\InternetCafeClient\bin\Debug\InternetCafeClient.exe
+C:\Documents and Settings\Administrator\Desktop\InternetCafe\InternetCafe\InternetCafeClient\bin\Debug\InternetCafeClient.pdb
+C:\Documents and Settings\Administrator\Desktop\InternetCafe\InternetCafe\InternetCafeClient\bin\Debug\InternetCafeClient.xml
+C:\Documents and Settings\Administrator\Desktop\InternetCafe\InternetCafe\InternetCafeClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\InternetCafe\InternetCafe\InternetCafeClient\obj\Debug\InternetCafeClient.frmClient.resources
+C:\Documents and Settings\Administrator\Desktop\InternetCafe\InternetCafe\InternetCafeClient\obj\Debug\InternetCafeClient.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\InternetCafe\InternetCafe\InternetCafeClient\obj\Debug\InternetCafeClient.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\InternetCafe\InternetCafe\InternetCafeClient\obj\Debug\InternetCafeClient.exe
+C:\Documents and Settings\Administrator\Desktop\InternetCafe\InternetCafe\InternetCafeClient\obj\Debug\InternetCafeClient.xml
+C:\Documents and Settings\Administrator\Desktop\InternetCafe\InternetCafe\InternetCafeClient\obj\Debug\InternetCafeClient.pdb
+C:\Documents and Settings\Administrator\Desktop\InternetCafe\InternetCafe\InternetCafeClient\obj\Debug\InternetCafeClient.frmScreenLock.resources
+K:\InternetCafe\InternetCafe\InternetCafeClient\obj\Debug\InternetCafeClient.exe
+K:\InternetCafe\InternetCafe\InternetCafeClient\obj\Debug\InternetCafeClient.xml
+K:\InternetCafe\InternetCafe\InternetCafeClient\obj\Debug\InternetCafeClient.pdb
+K:\InternetCafe\InternetCafe\InternetCafeClient\bin\Debug\InternetCafeClient.exe
+K:\InternetCafe\InternetCafe\InternetCafeClient\bin\Debug\InternetCafeClient.pdb
+K:\InternetCafe\InternetCafe\InternetCafeClient\bin\Debug\InternetCafeClient.xml
+K:\InternetCafe\InternetCafe\InternetCafeClient\obj\Debug\ResolveAssemblyReference.cache
+K:\InternetCafe\InternetCafe\InternetCafeClient\obj\Debug\InternetCafeClient.frmClient.resources
+K:\InternetCafe\InternetCafe\InternetCafeClient\obj\Debug\InternetCafeClient.frmScreenLock.resources
+K:\InternetCafe\InternetCafe\InternetCafeClient\obj\Debug\InternetCafeClient.Resources.resources
+K:\InternetCafe\InternetCafe\InternetCafeClient\obj\Debug\InternetCafeClient.vbproj.GenerateResource.Cache
+K:\InternetCafe\InternetCafe\Output\InternetCafeClient.exe
+K:\InternetCafe\InternetCafe\Output\InternetCafeClient.pdb
+K:\InternetCafe\InternetCafe\Output\InternetCafeClient.xml
+K:\InternetCafe\InternetCafe\Output\InternetCafeClient.exe.config
+J:\InternetCafe\InternetCafe\Output\InternetCafeClient.exe.config
+J:\InternetCafe\InternetCafe\InternetCafeClient\obj\Debug\InternetCafeClient.exe
+J:\InternetCafe\InternetCafe\InternetCafeClient\obj\Debug\InternetCafeClient.xml
+J:\InternetCafe\InternetCafe\InternetCafeClient\obj\Debug\InternetCafeClient.pdb

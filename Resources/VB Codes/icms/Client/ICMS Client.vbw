@@ -1,0 +1,11 @@
+Client = 44, 58, 463, 404, C, 22, 29, 441, 375, C
+GlobalCode = 88, 116, 507, 462, C
+frmTime = 22, 29, 613, 507, C, 0, 0, 591, 478, C
+mClient = 66, 87, 679, 507, C
+frmBanUser = 22, 29, 613, 507, C, 88, 116, 679, 594, C
+BanUser = 44, 58, 635, 536, C
+disable = 44, 58, 635, 476, C
+mouseTrap = 110, 145, 790, 505, C
+onTop = 0, 0, 599, 426, C
+Shutdown = 44, 58, 899, 490, C
+DisableCTRL = 0, 0, 855, 458, C

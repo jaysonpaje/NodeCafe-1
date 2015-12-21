@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Cafe_Client">
+</Property><Property Name="Solution File" Value="D:\PROGRAMMING\VB.NET\Cyber_Cafe\Cafe_Client.sln">
+</Property><Property Name="User Options File" Value="D:\PROGRAMMING\VB.NET\Cyber_Cafe\Cafe_Client.suo">
+</Property><Property Name="Date" Value="Sunday, February 19, 2012">
+</Property><Property Name="Time" Value="22:12 PM">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Cafe_Client.sln" Description="File successfully backed up as D:\PROGRAMMING\VB.NET\Cyber_Cafe\Backup1\Cafe_Client.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Cafe_Client.suo" Description="File successfully backed up as D:\PROGRAMMING\VB.NET\Cyber_Cafe\Backup1\Cafe_Client.suo">
+</Event><Event ErrorLevel="0" Project="Cafe_Client" Source="Cafe_Client\Cafe_Client.vbproj" Description="Project file successfully backed up as D:\PROGRAMMING\VB.NET\Cyber_Cafe\Backup1\Cafe_Client\Cafe_Client.vbproj">
+</Event><Event ErrorLevel="0" Project="Cafe_Client" Source="Cafe_Client\Forms\Form1.vb" Description="File successfully backed up as D:\PROGRAMMING\VB.NET\Cyber_Cafe\Backup1\Cafe_Client\Forms\Form1.vb">
+</Event><Event ErrorLevel="0" Project="Cafe_Client" Source="Cafe_Client\Forms\Form1.Designer.vb" Description="File successfully backed up as D:\PROGRAMMING\VB.NET\Cyber_Cafe\Backup1\Cafe_Client\Forms\Form1.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Cafe_Client" Source="Cafe_Client\Forms\Form2.Designer.vb" Description="File successfully backed up as D:\PROGRAMMING\VB.NET\Cyber_Cafe\Backup1\Cafe_Client\Forms\Form2.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Cafe_Client" Source="Cafe_Client\Forms\Form2.vb" Description="File successfully backed up as D:\PROGRAMMING\VB.NET\Cyber_Cafe\Backup1\Cafe_Client\Forms\Form2.vb">
+</Event><Event ErrorLevel="0" Project="Cafe_Client" Source="Cafe_Client\Modules\Module1.vb" Description="File successfully backed up as D:\PROGRAMMING\VB.NET\Cyber_Cafe\Backup1\Cafe_Client\Modules\Module1.vb">
+</Event><Event ErrorLevel="0" Project="Cafe_Client" Source="Cafe_Client\My Project\AssemblyInfo.vb" Description="File successfully backed up as D:\PROGRAMMING\VB.NET\Cyber_Cafe\Backup1\Cafe_Client\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="Cafe_Client" Source="Cafe_Client\My Project\Application.Designer.vb" Description="File successfully backed up as D:\PROGRAMMING\VB.NET\Cyber_Cafe\Backup1\Cafe_Client\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Cafe_Client" Source="Cafe_Client\My Project\Resources.Designer.vb" Description="File successfully backed up as D:\PROGRAMMING\VB.NET\Cyber_Cafe\Backup1\Cafe_Client\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Cafe_Client" Source="Cafe_Client\My Project\Settings.Designer.vb" Description="File successfully backed up as D:\PROGRAMMING\VB.NET\Cyber_Cafe\Backup1\Cafe_Client\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Cafe_Client" Source="Cafe_Client\My Project\Application.myapp" Description="File successfully backed up as D:\PROGRAMMING\VB.NET\Cyber_Cafe\Backup1\Cafe_Client\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="Cafe_Client" Source="Cafe_Client\My Project\Settings.settings" Description="File successfully backed up as D:\PROGRAMMING\VB.NET\Cyber_Cafe\Backup1\Cafe_Client\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Cafe_Client" Source="Cafe_Client\Forms\Form1.resx" Description="File successfully backed up as D:\PROGRAMMING\VB.NET\Cyber_Cafe\Backup1\Cafe_Client\Forms\Form1.resx">
+</Event><Event ErrorLevel="0" Project="Cafe_Client" Source="Cafe_Client\Forms\Form2.resx" Description="File successfully backed up as D:\PROGRAMMING\VB.NET\Cyber_Cafe\Backup1\Cafe_Client\Forms\Form2.resx">
+</Event><Event ErrorLevel="0" Project="Cafe_Client" Source="Cafe_Client\My Project\Resources.resx" Description="File successfully backed up as D:\PROGRAMMING\VB.NET\Cyber_Cafe\Backup1\Cafe_Client\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Cafe_Client" Source="Cafe_Client\Cafe_Client.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Cafe_Client" Source="Cafe_Client\Cafe_Client.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Cafe_Client.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Cafe_Client.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Cafe_Client" Source="Cafe_Client\Cafe_Client.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
